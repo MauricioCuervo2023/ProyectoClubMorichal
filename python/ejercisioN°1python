@@ -1,0 +1,25 @@
+""" print("No.1¡Hola Mundo.... soy Inés María y estoy aprendiendo Python")
+print()
+print("No.3 Esta es otra línea \n No. 4 esta es otra")
+print("No. 5 línea siguiente")
+print(5+6) 
+
+print("La suma de ",5," + ",6," es igual a: ",5+6)
+print()
+print(f"La suma de {5} + {6} es igual a: {5+6}")
+print()
+print(f'La suma de {5} + {6} es igual a: {5+6}')
+
+print("Me gusta mucho 'Python'")
+
+print('Me gusta mucho "Python"')
+
+print("«Si hay algo en nosotros verdaderamente divino, es la voluntad. Por ella afirmamos la personalidad, templamos el carácter, desafiamos la adversidad, reconstruimos el cerebro y nos superamos diariamente» —Santiago Ramón y Cajal")
+
+"""
+
+print("Argumentos posicionales en Python: end, sep")
+print()
+print("Mi", "nombre", "es Juana Arias", "y estoy", "aprendiendo Python", sep="*")
+print()
+print("Oliveros "*3)
